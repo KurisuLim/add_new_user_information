@@ -13,3 +13,10 @@ The Menu option would look like these:
     0 - Exit
 
     Option: 
+
+# To Do list
+[X] - Display Menu Option
+[X] - Display the User List
+[X] - Add New User
+[ ] - Remove User
+[X] - Be able to exit the program
